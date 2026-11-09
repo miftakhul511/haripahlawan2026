@@ -1,7 +1,7 @@
 // Ganti identitas, nama tim awal, dan pengaturan permainan di sini.
 export const CONFIG = {
   gameName: "Zuk kita Quiz",
-  accessCode: "GuruHebat", // kode pembuka layar game
+  accessCode: "BHYHebat", // kode pembuka layar game
   ownerName: "MIFTAKHUL HIDAYAT ZULFAQOR, S.Si",
   school: "SMA KEMALA BHAYANGKARI 3 PORONG",
   ownerPhoto: "asset/foto-pemilik.jpg", // unggah foto dengan nama ini ke folder asset
