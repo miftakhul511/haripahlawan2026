@@ -1,7 +1,42 @@
 export const ROUND3 = [
-  {"id":"r3-01","question":"Rani punya 5 pensil. Ia mendapat 2 pensil lagi. Berapa pensil Rani sekarang?","options":{"A":"6","B":"8","C":"9","D":"7"},"answer":"D","explanation":"Lima ditambah dua sama dengan tujuh."},
-  {"id":"r3-02","question":"Apa huruf terakhir pada kata “bola”?","options":{"A":"A","B":"B","C":"L","D":"O"},"answer":"A","explanation":"Jawaban yang benar adalah A."},
-  {"id":"r3-03","question":"Apa yang terjadi pada es batu saat dibiarkan di tempat hangat?","options":{"A":"Membeku","B":"Mencair","C":"Menjadi pasir","D":"Menjadi batu"},"answer":"B","explanation":"Jawaban yang benar adalah Mencair."},
-  {"id":"r3-04","question":"Apa bahasa Inggris dari “buku”?","options":{"A":"Bag","B":"Pen","C":"Book","D":"Door"},"answer":"C","explanation":"Jawaban yang benar adalah Book."},
-  {"id":"r3-05","question":"Berapa hasil 12 − 4?","options":{"A":"7","B":"8","C":"9","D":"10"},"answer":"B","explanation":"Dua belas dikurangi empat sama dengan delapan."}
+  {
+    id: "r3-01",
+    question: "Which structure is used to form the present perfect tense?",
+    options: {
+      A: "Have/has + past participle",
+      B: "Had + past participle",
+      C: "Am/is/are + verb-ing",
+      D: "Was/were + verb-ing",
+    },
+    answer: "A",
+    explanation: "The present perfect uses have or has followed by the past participle.",
+  },
+  {
+    id: "r3-02",
+    question: "Siapa yang mengusulkan agar Soekarno dan Mohammad Hatta menandatangani naskah Proklamasi atas nama bangsa Indonesia?",
+    options: { A: "Sukarni", B: "Wikana", C: "Chaerul Saleh", D: "B.M. Diah" },
+    answer: "A",
+    explanation: "Sukarni mengusulkan agar Soekarno dan Mohammad Hatta menandatangani naskah Proklamasi atas nama bangsa Indonesia.",
+  },
+  {
+    id: "r3-03",
+    question: "Siapa ketua delegasi Indonesia dalam Perundingan Renville?",
+    options: { A: "Sutan Sjahrir", B: "Mohammad Roem", C: "Mohammad Hatta", D: "Amir Sjarifuddin" },
+    answer: "D",
+    explanation: "Delegasi Indonesia dalam Perundingan Renville dipimpin oleh Amir Sjarifuddin.",
+  },
+  {
+    id: "r3-04",
+    question: "Apa nama majas yang menyebut sebagian untuk mewakili keseluruhan?",
+    options: { A: "Metonimia", B: "Eufemisme", C: "Totem pro parte", D: "Pars pro toto" },
+    answer: "D",
+    explanation: "Pars pro toto menyebut sebagian untuk mewakili keseluruhan.",
+  },
+  {
+    id: "r3-05",
+    question: "Kalau avatar di gim terlihat seperti susunan kotak-kotak warna kecil, apa nama gaya seni digital yang sengaja menonjolkan kotak-kotak tersebut?",
+    options: { A: "Low poly", B: "Pixel art", C: "Voxel art", D: "Vector art" },
+    answer: "B",
+    explanation: "Pixel art membentuk gambar dengan menata piksel sehingga kotak-kotak warnanya terlihat.",
+  },
 ];
